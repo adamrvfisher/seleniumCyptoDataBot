@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 crypto data request
-@author: Adam Getbags
+@author: Adam Reinhold Von Fisher
 """
 
 #import modules
